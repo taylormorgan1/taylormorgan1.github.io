@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>Final Project</title>
+        <link rel = "stylesheet" href = "CSS3/mystyle.css">
+    </head>
+    <body>
+        <header>
+            <h1>Taylor Morgan</h1>
+            <nav>
+                <a href = "https://www.coolmathgames.com/">One</a>
+                <a href = "https://www.youtube.com/">Two</a>
+                <a href = "https://www.nationalgeographic.com/">Three</a>
+                <a href = "https://en.wikipedia.org/wiki/Parachuting">Jump!</a>
+            </nav>
+        </header>
+        <main>
+            <h2>Favourite Foods</h2>
+                <ul>
+                    <li>Soft Pretzels</li>
+                    <li>Cheesecake</li>
+                    <li>Thanksgiving Stuffing</li>
+                    <li>Chili</li>
+                </ul>
+            <h2>Achievements</h2>
+                <p>
+                    Progress in this course (100%)
+                    <progress max = "100" value = "100"></progress>
+                    <br>
+                    Progress in the Specialization capstone(20%)
+                    <progress max = "100" value = "20"></progress>
+                    <br>
+                    Progress in life goals (5%)
+                    <progress max = "100" value = "5"></progress>
+                </p>
+            <h2>More About Me</h2>
+                <details>
+                    <summary>My Childhood</summary>
+                    <p>I grew up in Vancouver, Canada. I love the ocean and the mountains. I don't mind the rain, but I hate how grey it gets in the winter.
+                    </p>
+                </details>
+                <br>
+        </main>
+        <footer>
+            <p>
+            <img src = "http://www.intro-webdesign.com/images/newlogo.png" alt = "WD4E Logo"> 
+            This page was create by Taylor Morgan and Colleen van Lent.To learn more about web design, Visit <a href = "http://intro-webdesign.com/" alt = "link to intro to web design website">Intro to Web Design</a></p>
+        </footer>
+    </body>
+</html>
